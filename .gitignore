@@ -22,12 +22,8 @@ htmlcov/
 .DS_Store
 
 ###
-.ckpt
+.ckptЛ
 notebooks/
-data/ontology
-data/test
-data/audio
-data/meta
 
 ### Ubuntu
 
